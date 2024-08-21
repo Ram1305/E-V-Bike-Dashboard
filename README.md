@@ -1,17 +1,5 @@
 # bikedashboard
 
-A new Flutter project.
+EV Bike Dashboard is an intuitive and user-friendly mobile application crafted with Flutter. Experience cutting-edge technology with a modern, adaptive design that fits all screen sizes. Monitor your electric bike performance with real-time data on speed, battery status, and route navigation. Enjoy dynamic visuals and interactive controls that make managing your ride both effortless and engaging, ensuring a smooth and informative biking experience.',
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ![e-bike dash](https://github.com/user-attachments/assets/5fcd473e-1d3a-4bb5-85bc-98e57867d620)
